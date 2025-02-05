@@ -1,6 +1,5 @@
 ![Banner](https://i.ibb.co/8wT1hqD/github-header-image-2.png)
 
-
 # Hi, I'm Noorjahan Akter Meem 👩💻  
 ### Frontend Developer
 
@@ -22,7 +21,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -57,39 +55,38 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://www.facebook.com/noorjahan.akter.251879)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:noorjahanmeem220@gmail.com)
 
+---
 
+## 📊 GitHub Stats & Contributions
+
+<details>
+  <summary><b>⚡ GitHub Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ GitHub Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahan220&hide_border=true" />
+</details>
 
 ---
 
-### Projects and Dev Stuffs:
+## ⚙️ Things I Use to Get Stuff Done
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <summary><b>💻 My Development Setup</b></summary>
+  <ul>
+      <li><b>OS:</b> MacOS 13 Ventura</li>
+      <li><b>Laptop:</b> MacBook Air M1</li>
+      <li><b>Browser:</b> Chrome & Safari</li>
+      <li><b>Terminal:</b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+      <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+      <li><b>Other Tools:</b> Postman, Notion, Bitwarden, and Raindrop</li>
+      <li><b>To Stay Updated:</b> Twitter, Product Hunt, and Hacker News</li>
+  </ul>
 </details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details>
-
-
