@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png) <!-- Upload your banner -->
 
 # Hi, I'm Noorjahan Akter Meem 👩💻  
-### MERN Stack Developer | JavaScript Enthusiast  
+### Frontend Developer
 
 ---
 
@@ -11,7 +11,7 @@
   <tr>
     <td width="60%">
       <p>
-      I'm a passionate MERN stack developer with expertise in building modern web applications.  
+      I'm a passionate Frontend Developer, with expertise in building modern web applications.  
       I enjoy transforming complex problems into simple, beautiful solutions through code.  
       Currently focusing on creating full-stack projects with clean architecture and responsive designs.
       </p>
@@ -52,16 +52,15 @@
 ---
 
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/noorjahan220)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://facebook.com/noorjahan.akter.251879)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:youremail@domain.com) <!-- Add your email -->
 
-📍 **Location:** [Your City/Country]  
-📞 **Contact:** [+Your Phone Number]
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)]([https://facebook.com/noorjahan.akter.251879](https://www.facebook.com/noorjahan.akter.251879))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](noorjahanmeem220@gmail.com) <!-- Add your email -->
+
+
 
 ---
 
 ## 📈 GitHub Stats
 
-| ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=noorjahan220&theme=radical) |
+| ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
