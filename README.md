@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-<table border='0'>
+<table border="0">
   <tr>
     <td>
       <p>I'm a passionate MERN stack developer with expertise in building modern web applications.  
