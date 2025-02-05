@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png](https://i.ibb.co.com/8wT1hqD/github-header-image-2.png)) <!-- Upload your banner -->
+![Banner](https://i.ibb.co/8wT1hqD/github-header-image-2.png)
 
 # Hi, I'm Noorjahan Akter Meem 👩💻  
 ### Frontend Developer
