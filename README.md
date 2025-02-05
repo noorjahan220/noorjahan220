@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-<div><P>I'm a passionate MERN stack developer with expertise in building modern web applications. I enjoy transforming complex problems into simple, beautiful solutions through code. Currently focusing on creating full-stack projects with clean architecture and responsive designs.<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/refs/heads/master/code.gif" width="400" height="220" /></P>
+<div><P>I'm a passionate MERN stack developer with expertise in building modern web applications.<br/> I enjoy transforming complex problems into simple, beautiful solutions through code. Currently focusing on creating full-stack projects with clean architecture and responsive designs.<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/refs/heads/master/code.gif" width="400" height="220" /></P>
 </div>
 
 ---
