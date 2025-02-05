@@ -53,8 +53,8 @@
 
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)]([https://facebook.com/noorjahan.akter.251879](https://www.facebook.com/noorjahan.akter.251879))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](noorjahanmeem220@gmail.com) <!-- Add your email -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://www.facebook.com/noorjahan.akter.251879)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:noorjahanmeem220@gmail.com)
 
 
 
@@ -62,5 +62,4 @@
 
 ## 📈 GitHub Stats
 
-| ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) |
-|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noorjahan220&theme=radical)
