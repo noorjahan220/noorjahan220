@@ -7,6 +7,7 @@
 
 ## 🌟 About Me
 I'm a passionate MERN stack developer with expertise in building modern web applications. I enjoy transforming complex problems into simple, beautiful solutions through code. Currently focusing on creating full-stack projects with clean architecture and responsive designs.
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 ---
 
