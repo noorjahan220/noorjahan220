@@ -62,4 +62,4 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noorjahan220&theme=radical)
+| ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) 
