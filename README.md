@@ -1,32 +1,52 @@
-<h2 align="center">Hi 👋! My name is Noorjahan akter and I'm a Frontend Developer, from Bangladesh</h2>
+![Banner](https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png) <!-- Upload your banner -->
 
-###
+# Hi, I'm Noorjahan Akter Meem 👩💻 
+### MERN Stack Developer | JavaScript Enthusiast
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-</div>
+---
 
-###
+## 🌟 About Me
+I'm a passionate MERN stack developer with expertise in building modern web applications. I enjoy transforming complex problems into simple, beautiful solutions through code. Currently focusing on creating full-stack projects with clean architecture and responsive designs.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🚀 Current Activities
+- 🔭 Building a full-stack e-commerce platform with React & Node.js
+- 🌱 Learning advanced MongoDB query optimization techniques
+- 👯 Looking to collaborate on open-source JavaScript projects
+- 💡 Experimenting with React performance optimization
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.facebook.com/noorjahan.akter.251879" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+---
 
-###
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+---
+
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/noorjahan220)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://facebook.com/noorjahan.akter.251879)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:youremail@domain.com) <!-- Add your email -->
+
+📍 **Location:** [Your City/Country]  
+📞 **Contact:** [+Your Phone Number]
+
+---
+
+## 📈 GitHub Stats
+
+| ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=noorjahan220&theme=radical) |
+|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
