@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/8wT1hqD/github-header-image-2.png" alt="Banner" width="100%" />
+![Banner](https://i.ibb.co/8wT1hqD/github-header-image-2.png)
 
 
 # Hi, I'm Noorjahan Akter Meem 👩💻  
