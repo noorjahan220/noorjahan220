@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/8wT1hqD/github-header-image-2.png)
+![Banner](https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png)
 
 # Hi, I'm Noorjahan Akter Meem 👩💻  
 ### Frontend Developer
