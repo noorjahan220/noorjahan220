@@ -1,8 +1,12 @@
 ![Banner](https://i.ibb.co/8wT1hqD/github-header-image-2.png)
 
-# Hi, I'm Noorjahan Akter Meem 👩💻  
-### Frontend Developer
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Noorjahan+Akter+Meem....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+  ### Frontend Developer
+</h1>
 ---
 
 ## 🌟 About Me  
