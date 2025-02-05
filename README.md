@@ -3,10 +3,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Noorjahan+Akter+Meem....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Noorjahan+Akter+Meem.;Nice+to+meet+you!&center=true&size=30">
   </a>
-  ### Frontend Developer
 </h1>
+<h3 align="center">
+  Frontend Developer
+</h3>
 ---
 
 ## 🌟 About Me  
