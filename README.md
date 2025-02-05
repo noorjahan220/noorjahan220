@@ -1,13 +1,23 @@
 ![Banner](https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png) <!-- Upload your banner -->
 
-# Hi, I'm Noorjahan Akter Meem 👩💻 
-### MERN Stack Developer | JavaScript Enthusiast
+# Hi, I'm Noorjahan Akter Meem 👩💻  
+### MERN Stack Developer | JavaScript Enthusiast  
 
 ---
 
-## 🌟 About Me
-<div><P>I'm a passionate MERN stack developer with expertise in building modern web applications.<br/> I enjoy transforming complex problems into simple, beautiful solutions through code. Currently focusing on creating full-stack projects with clean architecture and responsive designs.<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/refs/heads/master/code.gif" width="400" height="220" /></P>
-</div>
+## 🌟 About Me  
+<table>
+  <tr>
+    <td>
+      <p>I'm a passionate MERN stack developer with expertise in building modern web applications.  
+      I enjoy transforming complex problems into simple, beautiful solutions through code.  
+      Currently focusing on creating full-stack projects with clean architecture and responsive designs.</p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/lauragift21/lauragift21/refs/heads/master/code.gif" width="400" height="220"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
