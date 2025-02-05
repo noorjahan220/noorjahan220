@@ -1,81 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Noorjahan Akter Meem | MERN Stack Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            text-align: center;
-            padding: 20px;
-        }
-        .banner {
-            width: 100%;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .tech-stack img {
-            width: 50px;
-            margin: 10px;
-        }
-        .social-links a {
-            margin: 10px;
-            display: inline-block;
-        }
-    </style>
-</head>
-<body>
-    <img src="https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png" alt="Banner" class="banner">
-    <div class="container">
-        <h1>Hi, I'm Noorjahan Akter Meem 👩💻</h1>
-        <h3>MERN Stack Developer | JavaScript Enthusiast</h3>
-        <hr>
-        
-        <h2>🌟 About Me</h2>
-        <p>I'm a passionate MERN stack developer with expertise in building modern web applications. I enjoy transforming complex problems into simple, beautiful solutions through code.</p>
-        
-        <h2>🚀 Current Activities</h2>
-        <ul>
-            <li>🔭 Building a full-stack e-commerce platform with React & Node.js</li>
-            <li>🌱 Learning advanced MongoDB query optimization techniques</li>
-            <li>👯 Looking to collaborate on open-source JavaScript projects</li>
-            <li>💡 Experimenting with React performance optimization</li>
-        </ul>
-        
-        <h2>💻 Tech Stack</h2>
-        <div class="tech-stack">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-        </div>
-        
-        <h2>🌐 Connect with Me</h2>
-        <div class="social-links">
-            <a href="https://github.com/noorjahan220"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"></a>
-            <a href="https://facebook.com/noorjahan.akter.251879"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"></a>
-            <a href="mailto:youremail@domain.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"></a>
-        </div>
-        
-        <h2>📈 GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical" alt="GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical" alt="Most Used Languages">
-        <img src="https://streak-stats.demolab.com?user=noorjahan220&theme=radical" alt="GitHub Streak">
-    </div>
-</body>
-</html>
+![Banner](https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png) <!-- Upload your banner -->
+
+# Hi, I'm Noorjahan Akter Meem 👩💻 
+### MERN Stack Developer | JavaScript Enthusiast
+
+---
+
+## 🌟 About Me
+I'm a passionate MERN stack developer with expertise in building modern web applications. I enjoy transforming complex problems into simple, beautiful solutions through code. Currently focusing on creating full-stack projects with clean architecture and responsive designs.
+
+---
+
+## 🚀 Current Activities
+- 🔭 Building a full-stack e-commerce platform with React & Node.js
+- 🌱 Learning advanced MongoDB query optimization techniques
+- 👯 Looking to collaborate on open-source JavaScript projects
+- 💡 Experimenting with React performance optimization
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+---
+
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/noorjahan220)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://facebook.com/noorjahan.akter.251879)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:youremail@domain.com) <!-- Add your email -->
+
+📍 **Location:** [Your City/Country]  
+📞 **Contact:** [+Your Phone Number]
+
+---
+
+## 📈 GitHub Stats
+
+| ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=noorjahan220&theme=radical) |
+|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
