@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png) <!-- Upload your banner -->
+![Banner]([https://raw.githubusercontent.com/noorjahan220/noorjahan220/main/banner.png](https://i.ibb.co.com/8wT1hqD/github-header-image-2.png)) <!-- Upload your banner -->
 
 # Hi, I'm Noorjahan Akter Meem 👩💻  
 ### Frontend Developer
@@ -62,4 +62,4 @@
 
 ## 📈 GitHub Stats
 
-| ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) 
+ ![Contributions](https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=radical)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=radical) 
