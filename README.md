@@ -1,49 +1,32 @@
-<!-- Banner Image (Upload your banner to the repo and link it) -->
-![Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png)
+<h2 align="center">Hi 👋! My name is Noorjahan akter and I'm a Frontend Developer, from Bangladesh</h2>
 
-# Hi, I'm Fatima Ahmed 👋 
-### Full Stack Developer | Open Source Contributor
+###
 
----
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+</div>
 
-## 👩💻 About Me
-I’m a passionate full-stack developer with 2+ years of experience building scalable web applications. I love working with JavaScript ecosystems and contributing to open-source projects. When I’m not coding, I enjoy hiking and reading tech blogs.
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 🚀 Current Activities
-- 🔭 Building a tourism management system with Next.js 14.
-- 🌱 Learning DevOps practices (Docker & Kubernetes).
-- 👯 Looking to collaborate on React/Node.js open-source projects.
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.facebook.com/noorjahan.akter.251879" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
 
-## 🛠️ Skills
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-
----
-
-## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
-
----
-
-## 📈 GitHub Stats
-
-| ![Contributions](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical) |
-|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+###
