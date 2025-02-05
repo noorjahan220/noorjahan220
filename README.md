@@ -67,12 +67,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>
-  <summary><b>☄️ GitHub Streaks</b></summary>
 
-  <br />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=noorjahan220&hide_border=true" />
-</details>
 ---
 
 ## ⚙️ Things I Use to Get Stuff Done
