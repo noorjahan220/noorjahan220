@@ -71,9 +71,8 @@
   <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahan220&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=noorjahan220&hide_border=true" />
 </details>
-
 ---
 
 ## ⚙️ Things I Use to Get Stuff Done
