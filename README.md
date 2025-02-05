@@ -7,20 +7,21 @@
 
 ## 🌟 About Me  
 
-<table style="border: none;">
+<table>
   <tr>
-    <td>
+    <td width="60%">
       <p>
       I'm a passionate MERN stack developer with expertise in building modern web applications.  
       I enjoy transforming complex problems into simple, beautiful solutions through code.  
       Currently focusing on creating full-stack projects with clean architecture and responsive designs.
       </p>
     </td>
-    <td>
+    <td width="40%">
       <img src="https://raw.githubusercontent.com/lauragift21/lauragift21/refs/heads/master/code.gif" width="350" height="200"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
