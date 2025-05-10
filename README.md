@@ -1,4 +1,5 @@
 ![Banner](https://i.ibb.co.com/spFqG8xr/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Noorjahan+Akter.;Nice+to+meet+you!&center=true&size=30&color=5D3FD3&width=550">
@@ -6,7 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/noorjahan.akter.251879"><img src="https://www.facebook.com/noorjahan.akter.251879"></a>
+  <a href="https://www.facebook.com/noorjahan.akter.251879"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:noorjahanmeem220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
