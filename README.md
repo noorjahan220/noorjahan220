@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/8wT1hqD/github-header-image-2.png)
+![Banner](https://i.ibb.co.com/spFqG8xr/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
 
 
 <h1 align="center">
