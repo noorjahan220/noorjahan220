@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="350" height="200"/>
+     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" height="200"/>
     </td>
   </tr>
 </table>
