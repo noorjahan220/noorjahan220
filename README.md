@@ -1,105 +1,114 @@
-<!-- Banner -->
+<!-- Banner (Unchanged as requested) -->
 <p align="center">
   <img src="https://i.ibb.co/spFqG8xr/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png" alt="Noorjahan Akter Banner"/>
 </p>
 
-<!-- Typing SVG -->
+<!-- Typing SVG (Slightly refined for better centering & spacing) -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Noorjahan+Akter.;A+passionate+Frontend+Developer.&center=true&size=30&color=5D3FD3&width=550&vCenter=true&height=60">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5D3FD3&center=true&vCenter=true&width=550&lines=Hello,+There!+👋;I'm+Noorjahan+Akter.;A+passionate+Frontend+Developer." alt="Typing SVG" />
   </a>
 </h1>
 
 ---
 
-### 🙋‍♀️ About Me
+### 🌟 About Me
 
-<p align="left">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="350" align="right"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" align="right" />
+</div>
 
-  I'm a Frontend Developer based in [Your City, Country], passionate about creating beautiful and functional web applications.
-  <br><br>
-  - 🔭 I’m currently building a full-stack e-commerce platform with **React & Node.js**.
-  <br>
-  - 🌱 I’m currently learning advanced **MongoDB optimization** and **TypeScript**.
-  <br>
-  - 👯 I’m looking to collaborate on impactful open-source projects.
-  <br>
-  - 💡 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-  <br>
-  - 💬 Ask me about **React, JavaScript, and modern web development**.
-  <br>
-  - 📫 How to reach me: **noorjahanmeem220@gmail.com**
-</p>
+> 💻 **Frontend Developer** crafting pixel-perfect, user-first experiences with modern tools.  
+> 📍 Based in **[Your City, Country]** — Open to remote collaboration & open-source contributions.
+
+#### What I’m up to:
+- 🔭 Building a **full-stack e-commerce platform** using **React + Node.js**.
+- 🌱 Learning **TypeScript** & advanced **MongoDB optimization** techniques.
+- 💡 Passionate about **clean code**, **UI/UX design**, and solving real-world problems.
+- 👯 Seeking **open-source collaborators** — let’s build something impactful together!
+- 💬 Ask me about: **React | JavaScript | Responsive Design | Web Performance**
+
+📬 **Reach out**: [noorjahanmeem220@gmail.com](mailto:noorjahanmeem220@gmail.com)
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noorjahan-akter-meem30" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=0077B5" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/noorjahan.akter.251879" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:noorjahanmeem220@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  &nbsp;&nbsp;
+  <a href="mailto:noorjahanmeem220@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ My Tech Stack
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h4 align="center">Frontend</h4>
-      <p align="center">
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-        <a href="https://www.w3.org/TR/html5/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4 align="center">Backend</h4>
-      <p align="center">
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4 align="center">Tools & Platforms</h4>
-      <p align="center">
-        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="50" /></a>
-        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 My GitHub Stats
+### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&icon_color=5D3FD3" alt="Noorjahan's GitHub Stats"/>
-  <!-- GitHub Streak Card -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahan220&hide_border=true&theme=tokyonight" alt="Noorjahan's GitHub Streak"/>
+  <!-- Frontend -->
+  <strong>🎨 Frontend</strong><br/>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="40" alt="Sass"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="Figma"/></a>
 </p>
+
 <p align="center">
-  <!-- Top Languages Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Noorjahan's Top Languages"/>
+  <!-- Backend -->
+  <strong>⚙️ Backend</strong><br/>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" alt="Express.js"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="MongoDB"/></a>
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <strong>🧰 Tools & DevOps</strong><br/>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="40" alt="GitHub"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postman-icon.svg" height="40" alt="Postman"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vercel-icon.svg" height="40" alt="Vercel"/></a>
 </p>
 
 ---
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noorjahan220&label=Profile%20Views&color=0e75b6&style=flat-square" alt="noorjahan220" />
+  <!-- Stats + Streak Side-by-Side -->
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=tokyonight&icon_color=5D3FD3&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahan220&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="55%" />
+</p>
+
+---
+
+### 🎯 Fun Facts
+
+<div align="center">
+  <img align="center" src="https://lottie.host/embed/6d7e7c1f-8b1a-4d2b-bc7e-4e5c3d5a4f4a/8XZtQqJZ1P.json" width="120" />
+</div>
+
+- ☕ Powered by coffee & curiosity.
+- 🎵 Loves listening to lo-fi while coding.
+- 📚 Constantly reading tech blogs & docs.
+- 🧩 Puzzle solver — both in code and in life.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noorjahan220&label=PROFILE+VIEWS&color=5D3FD3&style=flat-square" alt="Profile Views" />
 </p>
