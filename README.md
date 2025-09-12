@@ -64,17 +64,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noorjahan220&repo=your-best-project&theme=react)](https://github.com/noorjahan220/your-best-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noorjahan220&repo=another-project&theme=react)](https://github.com/noorjahan220/another-project)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
