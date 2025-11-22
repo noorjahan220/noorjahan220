@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://i.ibb.co.com/HfbCdTnB/Purple-and-Black-Modern-Software-Developer-Linked-In-Banner.png" width="100%" alt="Noorjahan Akter Banner"/> </div>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+Problem+Solver;Passionate+about+Clean+Code;Building+Beautiful+User+Experiences;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=6366f1&vCenter=true&size=22">
+</div>
 <div align="center">👋 Hi, I'm <strong>Noorjahan Akter</strong></div>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%2B+Next.js+Enthusiast;Clean+UI/UX+Lover;Always+Learning&font=Fira+Code&center=true&width=500&height=45&color=6366f1&size=22" /> </div>
 🚀 About Me
