@@ -1,7 +1,3 @@
-Here's a clean, professional, modern, and unique version of your GitHub profile README.
-I removed unnecessary clutter, kept it visually appealing, and added Next.js to your tech stack—just as you asked.
-Let me know if you'd like a more minimal or more decorated version!
-
 👋 Hi, I'm Noorjahan Akter
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%2B+Next.js+Enthusiast;Passionate+About+Clean+UI/UX;Always+Learning+%26+Improving&font=Fira+Code&center=true&width=500&height=45&color=6366f1&vCenter=true&size=22"> </div>
 🚀 About Me
