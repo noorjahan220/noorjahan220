@@ -9,8 +9,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Noorjahan Akter</h1></summary>
-    <!--- Changed color to Red (F05033) to match your banner --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=F05033&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Magician;React+and+Next.js+Enthusiast;Open+Source+Collaborator" alt="Typing SVG" /></a>
+ 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=F05033&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Magician;React+and+Next.js+Enthusiast;" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -53,22 +53,20 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://github.com/noorjahan220)
 
 ### Tools & Design:
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman)](https://github.com/noorjahan220)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,figma)](https://github.com/noorjahan220)
 
 <br/>
 
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-<!-- Using "radical" theme to get the RED color scheme -->
-
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=noorjahan220&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a> |
-| ------------- | ------------- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=noorjahan220&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&theme=radical&hide_border=true&layout=compact) |
+| :---: | :---: |
 
 ### Streak & Contributions:
-| <a><img align="center" src="https://streak-stats.demolab.com/?user=noorjahan220&theme=radical&hide_border=true" /></a> | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=noorjahan220&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ![Streak](https://streak-stats.demolab.com/?user=noorjahan220&theme=radical&hide_border=true) | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=noorjahan220&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true) |
+| :---: | :---: |
 
 <br/>
 
