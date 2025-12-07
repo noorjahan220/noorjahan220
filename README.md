@@ -6,12 +6,11 @@
 <br/>
 
 <!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Noorjahan Akter</h1></summary>
- 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=F05033&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Magician;React+and+Next.js+Enthusiast;" alt="Typing SVG" /></a>
-  </ul>
+<h1 align="center">Hi 👋, I'm Noorjahan Akter</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=F05033&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Magician;React+and+Next.js+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -61,7 +60,7 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Statistics:
-| ![Stats](https://github-readme-stats.vercel.app/api?username=noorjahan220&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&theme=radical&hide_border=true&layout=compact) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=noorjahan220&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&theme=radical&hide_border=true&layout=compact) |
 | :---: | :---: |
 
 ### Streak & Contributions:
