@@ -5,8 +5,7 @@
 
 <br/>
 
-<!--- title --->
-<h1 align="center">Hi 👋, I'm Noorjahan Akter</h1>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=F05033&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Magician;React+and+Next.js+Enthusiast" alt="Typing SVG" />
