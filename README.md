@@ -1,6 +1,6 @@
 <!--- banner --->
 <div align="center">
-  <img src="banner.png" alt="Noorjahan Akter Banner" width="100%" />
+  <img src="Banner.png" alt="Noorjahan Akter Banner" width="100%" />
 </div>
 
 <br/>
