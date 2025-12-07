@@ -1,50 +1,77 @@
+<!--- banner --->
 <div align="center">
-<img src="Banner.png" width="100%" alt="Noorjahan Akter Banner"/> </div>
-<div align="center">👋 Hi, I'm <strong>Noorjahan Akter</strong></div>
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%2B+Next.js+Enthusiast;Clean+UI/UX+Lover;Always+Learning&font=Fira+Code&center=true&width=500&height=45&color=6366f1&size=22" /> </div>
-🚀 About Me
+  <img src="banner.png" alt="Noorjahan Akter Banner" width="100%" />
+</div>
 
-I'm a Frontend Developer focused on crafting beautiful, clean, and functional user experiences.
+<br/>
 
-🔭 Working on: Full-stack e-commerce platform
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Noorjahan Akter</h1></summary>
+    <!--- Changed color to Red (F05033) to match your banner --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=F05033&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Magician;React+and+Next.js+Enthusiast;Open+Source+Collaborator" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-🌱 Learning: TypeScript, MongoDB Optimization
+<br/>
 
-🤝 Open to: Frontend & open-source collaboration
+<!--- about --->
+- 🔭 I’m currently working on **a Full-stack e-commerce platform using React and Node.js**
+- 🌱 I’m currently learning **TypeScript and MongoDB Optimization**
+- 👯 I’m looking to collaborate on **Open-source MERN stack projects and React libraries**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express, and Database Design**
+- 🧩 Fun fact: **I treat bugs like puzzles waiting to be solved**
+- 📍 Based in **Jessore, Bangladesh**
+- 📫 Reach me at **[noorjahanmeem220@gmail.com](mailto:noorjahanmeem220@gmail.com)**
 
-💬 Ask me about: React, Next.js, JavaScript, UI/UX
+<br/>
 
-📍 Based in Jessore, Bangladesh
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-🛠️ Tech Stack
-<div align="center">
+<div>
+  <p align="left">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/noorjahan-akter-meem-177448380" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+    <!-- Email -->
+    <a href="mailto:noorjahanmeem220@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" /></a>
+    <!-- Facebook (Optional - kept per request) -->
+    <a href="https://www.facebook.com/noorjahan.akter.251879/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" width="40" /></a>
+  </p>
+</div>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-<img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br/>
 
-  
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+### Frontend & Languages:
+[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,redux,bootstrap)](https://github.com/noorjahan220)
 
+### Backend & Database:
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://github.com/noorjahan220)
 
+### Tools & Design:
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman)](https://github.com/noorjahan220)
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </div>
+<br/>
 
-📊 GitHub Stats
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=noorjahan220&show_icons=true&theme=react&hide_border=true" /> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahan220&theme=react&hide_border=true" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorjahan220&theme=react-dark&hide_border=true" /> </div>
-🤝 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/noorjahan-akter-meem30"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:noorjahanmeem220@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/noorjahan.akter.251879"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> </div>
-✨ Developer Quote
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
-⭐ From noorjahan220
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+<!-- Using "radical" theme to get the RED color scheme -->
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=noorjahan220&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahan220&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a> |
+| ------------- | ------------- |
+
+### Streak & Contributions:
+| <a><img align="center" src="https://streak-stats.demolab.com/?user=noorjahan220&theme=radical&hide_border=true" /></a> | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=noorjahan220&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br/>
+
+<!--- random quote --->
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
